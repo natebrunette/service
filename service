@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Redirecting to 'brew services $2 $1'"
+brew services $2 $1
